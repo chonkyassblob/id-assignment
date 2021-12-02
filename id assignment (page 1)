@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body bgcolor="black">
+    <div class="container">
+        <div class="header"><h1>History</h1></div>
+        <div class="home">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="index.html.html">HOMEPAGE</a>
+    </div>
+        
+        <div class="content-header">
+            <h2>Education history</h2>
+        <p1>Primary school: Pei Hwa Presbytarian Primary School.
+         <br>       
+        </p1>
+    <p2>Secondary school: Bukit Panjang Government High School. 
+        <br>
+         For more infomation on the schools, feel free to take a look at their websites 
+        in the links provided.</p2>
+        <br>
+    <a href="https://www.bpghs.moe.edu.sg">
+        Secondary school website</a>
+    <a href="https://peihwapresbyterianpri.moe.edu.sg">
+        Primary school website</a></div>
+        <style>
+            a{color:red}
+            div{color:rgb(146, 114, 34)}
+            h1{color:rgb(146, 114, 34)}
+            p1{color:rgb(146, 114, 34)}
+            p2{color:rgb(146, 114, 34)}
+            .home{
+                text-align:center;
+            }
+            img{
+                height:250px;
+                width:500px
+            }
+        </style>
+        <div class="content-small"><h2>Job 1</h2>
+        <p3>This was my first ever job. I worked as a waiter in a restaurant
+            <br>
+            named Supply and Demand for 2 months. I was tasked with wiping
+            <br> 
+            and clearing of the tables, delivering food and taking orders 
+            <br>
+            from customers. From this job, i got to learn how to interact better
+            <br>
+            with strangers. However it was really tiring as we had to 
+            <br>
+            stand for very long hours with very few and short breaks. 
+            <br>
+            All in all, it was a very fun and good experience.
+        </p3></div>
+        <div class="restaurant">
+            <img src="https://www.esplanade.com/-/media/images/food-and-beverage/fnb/s/supply-and-demand-2020-07.jpg?mw=1200&w=1200&hash=564DECE02CEF5821B8027DF387BBEF35A17DD29E">
+        </div>
+        <div class="content-small2"><h2>Job 2</h2>
+        <p4>For this job, i worked as a warehouse packer. It was a very physical job 
+            <br>
+            as i was required to carry heavy boxes and pack and store many things
+            <br>
+            throughout the day with only one break for lunch. This job was really physically 
+            <br>
+            demanding and really tiring in my opinion. However it was still a good experience
+            <br>
+            as i tried something i never did before.</p4>
+        </div>
+        <div class="warehouse">
+                <img src="https://th.bing.com/th/id/R.7b3eefb80c95102daea620a7433b1bfc?rik=fr7vaRKsJ2ebeQ&riu=http%3a%2f%2fwww.globeconfreight.com%2fwp%2fwp-content%2fuploads%2f2020%2f02%2fDigital_Twins_The_Future_of_Warehouse_Operations.jpeg&ehk=QdEPtsJqxJvvJKFioZwxUQH1pGFs1KIXsWVowSmnMkk%3d&risl=&pid=ImgRaw&r=0">
+            </div>">
+        </div>
+    <style>
+        .restaurant{
+            text-align:left;
+        }
+    </style>
+</body>
+</html>
