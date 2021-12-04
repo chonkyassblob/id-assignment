@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body bgcolor=" black">
+    <div class="container">
+        <div class="header"><h1>About me</h1></div> 
+         <div class="home">
+        <a href="index.html.html">HOMEPAGE</a></div>
+        <div class="content-header"><h2>INTERESTS</h2>
+            <p1>I have a huge interest in sports and the English language. Whenever possible, i would go out to play
+                my favorite sports with my friends. This is a good form of catching up and exercise to help me keep fit
+                and healthy.As for my interest in English, my father is an English teacher and i have been reading books 
+                ever since i was young. This helped me develop love for the language and ever since then i have always been
+                interested and intrigued by the language.  </p1></div>
+                <div class="interests">
+                    <img src="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/reuters/10/04/braut.jpg">
+                </div>
+            <style>
+                a{color:red}
+                div{color:rgb(146, 114, 34);
+                    text-align: center}
+                h1{color:rgb(146, 114, 34)}
+                p1{color:rgb(146, 114, 34)}
+                p2{color:rgb(146, 114, 34)}
+                .home{
+                    text-align:right
+                }
+                .header{
+                    text-align:left
+                }
+                .content-small{
+                    text-align:left
+                }
+                .content-header{
+                    text-align:left
+                }
+                img{
+                    height:250px;
+                    width:500px
+                }
+                .interests{
+                    text-align:left
+                }
+                .strengths{
+                    text-align:left
+                }
+            </style>
+            <div class="content-small"><h2>STRENGTHS</h2>
+            <p2>I would say i am a very sociable person with good communication skills which enables me to interact well with people
+                even if they are strangers. I also learn and pick up things really quickly which allows me to adapt faster in a new 
+                environment. I think that these strengths of mine are really essential in the workforce and would be very benefitial to 
+                companies if they were to hire me. These are what i have to offer.
+                <div class="strengths">
+                    <img src="https://th.bing.com/th/id/OIP.KcS3YhoW0OPc0HlApTgsEQHaE7?pid=ImgDet&rs=1">
+                </div>
+            </p2></div>
+        </div>
+    </body>
+    </html>
